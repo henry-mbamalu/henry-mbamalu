@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello World! I'm Henry Mbamalu
 
-<!--
-**henry-mbamalu/henry-mbamalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Fullstack Engineer from Lagos, Nigeria, specializing in Web Development and Cloud Computing. Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+
+- **Languages:** Javascript, Typescript, PHP, Golang, C#, Python
+- **Frameworks/Libraries:** Gin, Laravel, Node.js, React.js, Vue.js, Next.js, Nest.js, ASP.Net Core
+- **Tools/Technologies:** Git, Jenkins, Docker, Kubernetes, AWS, GraphQL, RESTful APIs
+- **Databases:** MySQL, MSSQL, MongoDB, PostgreSQL
+
+## 📚 Education
+
+- **Degree:** Bachelor of Science - Computer Science
+- **University:** University of Benin
+
+## 📫 Get in Touch
+
+- LinkedIn: [https://www.linkedin.com/in/henrymbamalu](https://www.linkedin.com/in/henrymbamalu)
+- Email: [henrymbamalu1@gmail.com](mailto:henrymbamalu1@gmail.com)
+- Portfolio: [https://henrymbamalu.netlify.app](https://henrymbamalu.netlify.app)
+
+## 🌱 I'm Currently Learning
+- Azure
+
+## 💬 Fun Fact
+
+ I enjoy working out in my free time.
+
+Feel free to explore my repositories and connect with me! Let's collaborate and create amazing things together. 🌟
+
