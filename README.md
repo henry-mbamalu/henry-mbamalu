@@ -8,7 +8,7 @@ I'm a passionate Fullstack Engineer from Lagos, Nigeria, specializing in Web Dev
 - **Languages:** Javascript, Typescript, Golang, Java, PHP
 - **Frameworks/Libraries:** Node.js, Gin, Nest.js, Spring boot, Laravel, React.js, Vue.js, Next.js, 
 - **Tools/Technologies:** Git, Jenkins, Docker, Kubernetes, AWS, GraphQL, RESTful APIs
-- **Databases:** MySQL, MSSQL, MongoDB, PostgreSQL
+- **Databases:** MySQL, MSSQL, MongoDB, PostgreSQL, SQLite
 
 ## 📚 Education
 
@@ -21,12 +21,5 @@ I'm a passionate Fullstack Engineer from Lagos, Nigeria, specializing in Web Dev
 - Email: [henrymbamalu1@gmail.com](mailto:henrymbamalu1@gmail.com)
 - Portfolio: [https://henrymbamalu.netlify.app](https://henrymbamalu.netlify.app)
 
-<-- ## 🌱 I'm Currently Learning
-- Azure
-
-## 💬 Fun Fact
-
- I enjoy working out in my free time.
- -->
 Feel free to explore my repositories and connect with me! Let's collaborate and create amazing things together. 🌟
 
