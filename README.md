@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Henry Mbamalu
 
-I'm a passionate Fullstack Engineer from Lagos, Nigeria, specializing in Web Development and Cloud Computing. Welcome to my GitHub profile! 🚀
+I'm a passionate Fullstack Engineer from Lagos, Nigeria, specializing in Fullstack Development and Cloud Computing. Welcome to my GitHub profile! 🚀
 
 
 ## 🚀 Skills & Technologies
