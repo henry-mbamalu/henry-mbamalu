@@ -5,8 +5,8 @@ I'm a passionate Fullstack Engineer from Lagos, Nigeria, specializing in Web Dev
 
 ## 🚀 Skills & Technologies
 
-- **Languages:** Typescript, Golang, Java, PHP
-- **Frameworks/Libraries:** Node.js, Gin, Nest.js, Spring boot, Laravel, React.js, Next.js, 
+- **Languages:** Typescript, Golang, Java, C#, PHP
+- **Frameworks/Libraries:** Node.js, Gin, Nest.js, Spring boot, ASP.Net, Laravel, React.js, Next.js, 
 - **Tools/Technologies:** Git, Jenkins, Docker, Kubernetes, AWS, GraphQL, RESTful APIs
 - **Databases:** MySQL, MSSQL, MongoDB, PostgreSQL, SQLite
 
