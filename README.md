@@ -1,25 +1,68 @@
-# 👋 Hello World! I'm Henry Mbamalu
+# 👋 Hi, I'm Henry Mbamalu
 
-I'm a passionate Fullstack Engineer from Lagos, Nigeria, specializing in Fullstack Development and Cloud Computing. Welcome to my GitHub profile! 🚀
+I'm a **Full-Stack Software Engineer** with 5+ years of experience building scalable fintech, insurance, and cloud-native applications. I enjoy designing distributed systems, developing robust backend services, and creating intuitive web applications that solve real-world problems.
 
+## 🚀 Tech Stack
 
-## 🚀 Skills & Technologies
+### Languages
+- TypeScript
+- Java
+- Golang
+- PHP
+- C#
 
-- **Languages:** Typescript, Golang, Java, C#, PHP
-- **Frameworks/Libraries:** Node.js, Gin, Nest.js, Spring boot, ASP.Net, Laravel, React.js, Next.js, 
-- **Tools/Technologies:** Git, Jenkins, Docker, Kubernetes, AWS, GraphQL, RESTful APIs
-- **Databases:** MySQL, MSSQL, MongoDB, PostgreSQL, SQLite
+### Backend
+- Node.js
+- NestJS
+- Express.js
+- Spring Boot
+- ASP.NET
+- Laravel
+- GraphQL
+- REST APIs
 
-## 📚 Education
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
 
-- **Degree:** Bachelor of Science - Computer Science
-- **University:** University of Benin
+### Cloud & DevOps
+- Docker
+- Kubernetes
+- AWS
+- GitHub Actions
+- Jenkins
 
-## 📫 Get in Touch
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQL Server
+- Redis
+- SQLite
 
-- LinkedIn: [https://www.linkedin.com/in/henrymbamalu](https://www.linkedin.com/in/henrymbamalu)
-- Email: [henrymbamalu1@gmail.com](mailto:henrymbamalu1@gmail.com)
-- Portfolio: [https://henrymbamalu.netlify.app](https://henrymbamalu.netlify.app)
+## 💼 What I Build
 
-Feel free to explore my repositories and connect with me! Let's collaborate and create amazing things together. 🌟
+- Fintech platforms
+- Payment systems
+- Insurance platforms
+- API Gateways
+- Microservices
+- Cloud-native applications
+- Authentication & Authorization systems
 
+## 🎓 Education
+
+**B.Sc. Computer Science**  
+University of Benin
+
+## 📫 Connect with Me
+
+- 🌐 Portfolio: https://henrymbamalu.netlify.app
+- 💼 LinkedIn: https://linkedin.com/in/henrymbamalu
+- 📧 Email: henrymbamalu1@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories or reach out if you'd like to collaborate.
