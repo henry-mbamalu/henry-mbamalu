@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Henry Mbamalu
 
-I'm a **Full-Stack Software Engineer** with 5+ years of experience building scalable fintech, insurance, and cloud-native applications. I enjoy designing distributed systems, developing robust backend services, and creating intuitive web applications that solve real-world problems.
+I'm a **Full-Stack Software Engineer** with experience building scalable fintech, insurance, and cloud-native applications. I enjoy designing distributed systems, developing robust backend services, and creating intuitive web applications that solve real-world problems.
 
 ## 🚀 Tech Stack
 
